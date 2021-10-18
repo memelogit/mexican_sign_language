@@ -1,0 +1,8 @@
+*.mp4
+__pycache__
+Include
+Lib
+Scripts
+color
+secuencias
+videos

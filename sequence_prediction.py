@@ -14,7 +14,7 @@ sources = []
 correct = 0
 incorrect = 0
 
-for _ in range(100):
+for _ in range(20):
     videos = VideoSamples('videos', color=True, total_samples=1, random=True)
 
     if videos.samples[0].source in sources:
